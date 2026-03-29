@@ -1,0 +1,2 @@
+# SilentAim
+client auto update
