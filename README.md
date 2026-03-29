@@ -1,3 +1,3 @@
 # SilentAim
 client auto update
-version - v6.1
+version - v5.9
